@@ -1,11 +1,11 @@
-Links zum Thema
-===============
+Links
+=====
 
 
-Generell
---------
+Generic / Tutorials
+-------------------
 * http://www.strickmoden.de/
-  Anleitungen (auch für elektr. Schlitten), Tips und Tricks, Schnittmuster
+    Anleitungen (auch für elektr. Schlitten), Tips und Tricks, Schnittmuster
 
 * http://machineknittingetc.com/
   Manuals for all kind of knitting machines (incl. Brother)
