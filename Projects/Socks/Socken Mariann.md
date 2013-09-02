@@ -8,6 +8,7 @@ Socken für Mariann
     - 100g => 400m
     - Farbe 030.02 (Partie 373)
     - Nadeln 2.5-3, 29M/38R
+    - Gekauft im Loeb, Bern
 ![Wolle](Socken%20Mariann%20Wolle.jpg)
 
 Ergebnis
