@@ -1,17 +1,19 @@
 Socken für Mariann
 ==================
 - Grösse: ca. 36 (etwas kleiner geraten)
+- Datum: 30.08.2013
+- Quelle: <https://www.youtube.com/watch?v=GkzcKcN9upM> (Telse Peters)
 - Wolle:
     - Tannheim Pro Lana
     - 100g => 400m
     - Farbe 030.02 (Partie 373)
     - Nadeln 2.5-3, 29M/38R
-- Datum: 30.08.2013
-- Quelle: <https://www.youtube.com/watch?v=GkzcKcN9upM> (Telse Peters)
+![Wolle](Socken%20Mariann%20Wolle.jpg)
 
 Ergebnis
 --------
 ![fertige Socke](Socken%20Mariann.jpg)
+
 
 Findings
 --------
