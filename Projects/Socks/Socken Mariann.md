@@ -15,7 +15,7 @@ Ergebnis
 
 Findings
 --------
-- Etwas kurz geraten, 110 Maschen nehmen nächstes Mal
+- Etwas kurz geraten, 110 Reihen für Fuss nächstes Mal
 - Für den rundgestrickten Teil etwas grössere Maschenweite
 
 
