@@ -40,7 +40,8 @@ Herstellung
 - 30 Reihen rundstricken
 
 ### Ferse
-- KR nicht stricken, oben glatt rechts
+- KR nicht stricken, oben glatt rechts (Maschenzahl für Ferse: 30)
+- Maschenweite: 5
 - KH auf H (Nadeln auf E nicht stricken)
 - linke und rechte Nadel in E Position, 1 Reihe
 - immer Nadel beim Schlitten in E Position, 1 Reihe
@@ -52,6 +53,7 @@ Herstellung
 
 ### Fuss
 - 100 Reihen rund
+- Maschenweite: 5
 
 ### Spitze
 - erste Stufe: 6x
