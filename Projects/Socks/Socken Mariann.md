@@ -1,7 +1,7 @@
 Socken für Mariann
 ==================
-- Grösse: ca. 36 (etwas kleiner geraten)
-- Datum: 30.08.2013
+- Grösse: 36
+- Datum: 30.08.2013, revised 03.09.2013
 - Quelle: <https://www.youtube.com/watch?v=GkzcKcN9upM> (Telse Peters)
 - Wolle:
     - Tannheim Pro Lana
@@ -19,8 +19,9 @@ Ergebnis
 
 Findings
 --------
-- Etwas kurz geraten, 110 Reihen für Fuss nächstes Mal
-- Für den rundgestrickten Teil etwas grössere Maschenweite
+- Erste Variante etwas kurz und unten etwas eng, zweite gut.
+    - Maschenweite rundstricken von 5 auf 7
+    - 108 Reihen statt nur 100 für den Fuss
 
 
 Herstellung
@@ -30,6 +31,7 @@ Herstellung
 - oberes und unteres Bett je -30 bis 30, jede zweite (abwechselnd)
 - mit Kontrastwolle (l/r)
 - Abschluss: eine Reihe rund mit Nylon
+- Dann Wickelanschlag mit normaler Wolle von links nach rechts
 
 ### Schaft Teil 1
 - links/rechts (1)
@@ -40,12 +42,12 @@ Herstellung
 - Alle Maschen umhängen auf KH
 - zwei Reihen glatt rechts
 - Maschen links der 0 umhängen auf KR
-- Maschenweite: 5
+- Maschenweite: 7
 - 30 Reihen rundstricken
 
 ### Ferse
 - KR nicht stricken, oben glatt rechts (Maschenzahl für Ferse: 30)
-- Maschenweite: 5
+- Maschenweite: 7
 - KH auf H (Nadeln auf E nicht stricken)
 - linke und rechte Nadel in E Position, 1 Reihe
 - immer Nadel beim Schlitten in E Position, 1 Reihe
@@ -56,8 +58,8 @@ Herstellung
 - KH auf N (Nadel auf E auch Stricken)
 
 ### Fuss
-- 100 Reihen rund
-- Maschenweite: 5
+- 108 Reihen rund
+- Maschenweite: 7
 
 ### Spitze
 - erste Stufe: 6x
