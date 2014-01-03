@@ -70,7 +70,7 @@
 
 -   Schlitten wieder auf rundstricken
 
--   768 Reihen rund
+-   76 Reihen rund
 
 ### Spitze
 
