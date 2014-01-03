@@ -10,9 +10,8 @@
 
 ## Ergebnis
 
-![][]
-
-![][1]
+![Ergebnis](Socken%20Nina.jpg)
+![Ergebnis close-up](Socken%20Nina%20close.jpg)
 
 ## Findings
 
@@ -107,6 +106,3 @@
 ### Abschliessen
 
 -   Vernähen der Faden
-
-  []: Socken Nina.jpg
-  [1]: Socken Nina close.jpg
